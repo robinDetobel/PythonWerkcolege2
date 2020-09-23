@@ -21,7 +21,6 @@ while invoer != -1:
     except ZeroDivisionError:
         print("Oops!  Dit was geen getal, probeer het opnieuw.")
 
-
 for prijs in offertes:
     tot += prijs
 

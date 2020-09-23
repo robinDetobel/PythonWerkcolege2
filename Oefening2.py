@@ -7,5 +7,4 @@ while teller < getal:
         delers.append(teller)
     teller += 1
 
-
 print(delers)
